@@ -19,7 +19,7 @@ I am currently running small business as self-employed, but recent events in my 
 
 * Bachelor of radiophysics, Voronezh State University, 2009-2013
 * Udemy [Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) - in progress
-* [RS Schools Course «JavaScript/Front-end. Stage 0»](https://github.com/rolling-scopes-school/tasks/tree/master/stage0) (in progress)
+* [RS Schools Course «JavaScript/Front-end. Stage 0»](https://github.com/rolling-scopes-school/tasks/tree/master/stage0) 
 
 
 ### Skills and Proficiency
@@ -47,3 +47,6 @@ function toBinary(n){
 * English: B2
 * French: A1
 
+### Projects
+* [Plants](https://rolling-scopes-school.github.io/lu7623-JSFEPRESCHOOL2022Q4/plants/)
+* [Momentum](https://lu7623-momentum.netlify.app/)
